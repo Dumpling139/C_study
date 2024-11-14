@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\study\code\c_study_10_10\study_11_7\study_11_7\源.cpp(176,6): error C2374: “i”: 重定义；多次初始化
+  D:\study\code\c_study_10_10\study_11_7\study_11_7\源.cpp(175,6):
+  参见“i”的声明
+  
